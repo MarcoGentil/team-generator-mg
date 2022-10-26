@@ -202,3 +202,5 @@ Todo:
 8 : Calls the renderHTML function in the generateHTML.js file to create the index.html
 9 : Add an success message
 10: Add the finction to call the initialization of the app
+devolped app examples 
+video:https://watch.screencastify.com/v/GMQICSDu00uBu5SGcW0v
